@@ -86,11 +86,11 @@ Safari non permette l'utilizzo della direttiva per gli elementi di tipo `button`
 
 <h3 id="conclusione">Conclusione</h3>
 
-In conclusione, mi auguro che questo semplice trucco possa migliorare l'aspetto dei vostri siti web e vi permetta di sperimentare grafiche moderne al passo coi tempi.
+In conclusione, auguro, a voi che leggerete questa pagina, che questo semplice trucco possa migliorare l'aspetto dei vostri siti web e vi permetta di sperimentare grafiche moderne al passo coi tempi. Alle porte del 2020 sembrano adorare l'uso di questi grandienti di colore su sfondi, bottoni e grafiche di ogni genere.
 
-Alle porte del 2020 sembrano adorare l'uso di questi grandienti di colore su sfondi, bottoni e grafiche di ogni genere.
+Beh, adesso sapete come fare e come farlo in modo SEO Friendly.
 
-Beh, adesso conosce un modo SEO friendly di applicare un gradiente di colore anche sul testo.
+Se vuoi discutere o migliorare questo articolo vieni a trovarmi su <a href="https://github.com/Mindexperiment/diary/blob/master/css-text-gradient.md" target="_blank">[Github]</a>
 
 <h3 id="riferimenti">Riferimenti</h3>
 
@@ -99,5 +99,3 @@ Beh, adesso conosce un modo SEO friendly di applicare un gradiente di colore anc
 [^2]: Il riferimento MDN per [-webkit-text-fill-color](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color)
 
 [^3]: Il riferimenro MDN per [background-image](https://developer.mozilla.org/en-US/docs/Web/CSS/background-image)
-
-Se vuoi discutere o migliorare questo articolo vieni a trovarmi su [Github](https://github.com/Mindexperiment/diary/blob/master/css-text-gradient.md)
