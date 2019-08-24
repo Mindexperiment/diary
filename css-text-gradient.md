@@ -100,4 +100,4 @@ Beh, adesso conosce un modo SEO friendly di applicare un gradiente di colore anc
 
 [^3]: Il riferimenro MDN per [background-image](https://developer.mozilla.org/en-US/docs/Web/CSS/background-image)
 
-Se vuoi discutere o migliorare questo articolo vieni a trovarmi su [Github]()
+Se vuoi discutere o migliorare questo articolo vieni a trovarmi su [Github](https://github.com/Mindexperiment/diary/blob/master/css-text-gradient.md)
